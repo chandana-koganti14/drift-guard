@@ -1,0 +1,18 @@
+{
+  "name": "drift-guard",
+  "version": "0.2.0",
+  "description": "Detects topic drift in long Claude Code sessions and suggests /clear before stale context hurts answers.",
+  "author": {
+    "name": "Sai Chandana Koganti"
+  },
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "topic-drift",
+    "clear",
+    "compact",
+    "hooks"
+  ],
+  "homepage": "https://github.com/chandana-koganti14/drift-guard",
+  "repository": "https://github.com/chandana-koganti14/drift-guard"
+}

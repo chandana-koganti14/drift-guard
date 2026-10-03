@@ -1,0 +1,11 @@
+{
+  "name": "drift-guard",
+  "owner": { "name": "Sai Chandana Koganti" },
+  "plugins": [
+    {
+      "name": "drift-guard",
+      "source": "./plugins/drift-guard",
+      "description": "Warns you when a new prompt starts a different task while your context is still full of the old one."
+    }
+  ]
+}

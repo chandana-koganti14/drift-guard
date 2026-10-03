@@ -1,0 +1,9 @@
+# Labelled examples come from private Claude Code transcripts: never commit them
+data/
+__pycache__/
+*.pyc
+.env
+config.env
+
+# Benchmark output from your own history: run tools/benchmark.py to generate
+results/
